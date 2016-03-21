@@ -2,4 +2,5 @@
 
 Usage
   sbt assembly
+  
   spark-submit --class esHadoopTest <target-path>
